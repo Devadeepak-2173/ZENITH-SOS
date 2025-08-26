@@ -1,4 +1,4 @@
-ZENITH-SOS
+ZENITH-SOS 
 Highway SOS Finder is a Web3-enabled, decentralized application (dApp) designed to assist stranded highway drivers by seamlessly connecting them with nearby, verified mechanics. Leveraging blockchain technology, the platform ensures trust, transparency, and efficiency in roadside assistance.
 
 When a vehicle breaks down, drivers often face uncertainty, panic, and delays. Our platform solves this by providing a mobile-optimized interface that displays real-time availability of mechanics, estimated arrival times, distance, and contact options — all secured on-chain.
